@@ -92,14 +92,7 @@ Built with **Google Apps Script + Gmail API + Google Calendar API**. Features ba
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharavanan5521-sys&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharavanan5521-sys&theme=tokyonight&hide_border=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharavanan5521-sys&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Build things. Break things. Learn fast."</i><br/>
-  <b>Always growing, always shipping. 🚀</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharavanan5521-sys&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="45%" />
 </p>

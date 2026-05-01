@@ -21,6 +21,7 @@ I'm a final-year Diploma in IT student at **Politeknik Balik Pulau** (CGPA 3.9/4
 I'm actively growing as a **web developer** — combining a strong foundation in frontend development with backend logic, cloud tools, and real-world project delivery. I love turning ideas into polished, functional products.
 
 - 🔧 Currently building **Idea Keeper** — a PWA for capturing and resurfacing ideas (React + Vite + Tailwind + Firebase + Gemini API)
+- 🌐 Delivered **FDM System** — a full-stack Training & Development Management website for a real coaching institution
 - 🚀 Shipping my Final Year Project **PomenPro** — a cross-platform technician monitoring system (Flutter + Firebase)
 - 📚 Studying the **IBM DevOps & Software Engineering Professional Certificate** on Coursera
 - 🎯 Open to full-time **Web Developer / Software Engineer** roles
@@ -40,6 +41,7 @@ I'm actively growing as a **web developer** — combining a strong foundation in
 
 **Backend & Mobile**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -58,6 +60,13 @@ I'm actively growing as a **web developer** — combining a strong foundation in
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 [FDM — Training & Development Management System](https://github.com/sharavanan5521-sys/fdm)
+> A full-stack website built for a real coaching institution to manage events, announcements, and training programmes.
+
+Built with **HTML + CSS + JavaScript** on the frontend and **PHP** on the backend. Features a public-facing multi-page website (Home, About, Services, Events, Team, Testimonials, Contact) and a secure **admin dashboard** for managing announcements, events, and media uploads. Data stored via lightweight **JSON files**, with Google Search Console integration and `sitemap.xml` for SEO. Deployed and live for a real client.
+
+---
 
 ### 🧠 [Idea Keeper](https://github.com/sharavanan5521-sys/idea-keeper) *(In Progress)*
 > A Progressive Web App for capturing, organising, and AI-resurfacing your ideas.
